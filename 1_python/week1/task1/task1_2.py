@@ -1,3 +1,5 @@
+#This program to check whether the passed letter is vowel or not
+
 def checkVowel(char):
     VOWELS ={'a','e','i','o','u','A','E','I','O','U'}
     if char in VOWELS:
